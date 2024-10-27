@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/bin/Debug/net9.0/bebek
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/bin/Debug/net9.0/bebek.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/bin/Debug/net9.0/bebek.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/bin/Debug/net9.0/bebek.dll
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/bin/Debug/net9.0/bebek.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.dll
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/refint/bebek.dll
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/bebek.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/bebek/bebek/obj/Debug/net9.0/ref/bebek.dll
